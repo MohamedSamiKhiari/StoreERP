@@ -1,0 +1,5 @@
+F:\ISMT\Database Design and Development\WebApplication\StoreERP\StoreERP.Model\bin\Debug\StoreERP.Model.dll
+F:\ISMT\Database Design and Development\WebApplication\StoreERP\StoreERP.Model\bin\Debug\StoreERP.Model.pdb
+F:\ISMT\Database Design and Development\WebApplication\StoreERP\StoreERP.Model\obj\Debug\StoreERP.Model.dll
+F:\ISMT\Database Design and Development\WebApplication\StoreERP\StoreERP.Model\obj\Debug\StoreERP.Model.pdb
+F:\ISMT\Database Design and Development\WebApplication\StoreERP\StoreERP.Model\obj\Debug\StoreERP.Model.csprojResolveAssemblyReference.cache
